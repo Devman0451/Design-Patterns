@@ -1,0 +1,14 @@
+D:\Users\Justin\source\repos\StrategyPattern\StrategyPattern\bin\Debug\StrategyPattern.exe.config
+D:\Users\Justin\source\repos\StrategyPattern\StrategyPattern\bin\Debug\StrategyPattern.exe
+D:\Users\Justin\source\repos\StrategyPattern\StrategyPattern\bin\Debug\StrategyPattern.pdb
+D:\Users\Justin\source\repos\StrategyPattern\StrategyPattern\obj\Debug\StrategyPattern.csprojAssemblyReference.cache
+D:\Users\Justin\source\repos\StrategyPattern\StrategyPattern\obj\Debug\StrategyPattern.csproj.CoreCompileInputs.cache
+D:\Users\Justin\source\repos\StrategyPattern\StrategyPattern\obj\Debug\StrategyPattern.exe
+D:\Users\Justin\source\repos\StrategyPattern\StrategyPattern\obj\Debug\StrategyPattern.pdb
+D:\Users\Justin\source\repos\Design Patterns\StrategyPattern\StrategyPattern\bin\Debug\StrategyPattern.exe.config
+D:\Users\Justin\source\repos\Design Patterns\StrategyPattern\StrategyPattern\bin\Debug\StrategyPattern.exe
+D:\Users\Justin\source\repos\Design Patterns\StrategyPattern\StrategyPattern\bin\Debug\StrategyPattern.pdb
+D:\Users\Justin\source\repos\Design Patterns\StrategyPattern\StrategyPattern\obj\Debug\StrategyPattern.csprojAssemblyReference.cache
+D:\Users\Justin\source\repos\Design Patterns\StrategyPattern\StrategyPattern\obj\Debug\StrategyPattern.csproj.CoreCompileInputs.cache
+D:\Users\Justin\source\repos\Design Patterns\StrategyPattern\StrategyPattern\obj\Debug\StrategyPattern.exe
+D:\Users\Justin\source\repos\Design Patterns\StrategyPattern\StrategyPattern\obj\Debug\StrategyPattern.pdb
